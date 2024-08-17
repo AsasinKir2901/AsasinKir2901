@@ -48,4 +48,4 @@ https://www.google.com/search?q=%D1%87%D1%82%D0%BE+%D0%BC%D0%BE%D0%B3%D1%83%D1%8
 ''')
 
 
-bot.run('MTI2NTk5MTg0NDk3NDY5NDQxMg.GR2oQv.bszXqxu4KrqUYvlHjtsGjZSAe5Az0AePtO9md4')
+bot.run('ne_dam')
